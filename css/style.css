@@ -1,0 +1,38 @@
+body {
+    background-image: url(../images/restaurant.png);
+    font-family: 'Acme', sans-serif;
+    font-size: 14pt;
+    position: relative;
+}
+
+.head {
+    margin-top: 50px;
+}
+
+.body {
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+
+.background {
+    background: rgba(255, 255, 255, 0.9);
+
+    border-radius: 10px;
+    color: #777167;
+}
+
+.section {
+    margin: 40px;
+}
+
+#show-map {
+    height:400px;
+ }
+
+.drive_info {
+    margin-top: 10px;
+}
+
+
+
+
